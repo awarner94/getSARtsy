@@ -25,3 +25,11 @@ Tuholske, C., K. Caylor, C. Funk, A. Verdin, S. Sweeney, K. Grace, P. Peterson, 
 
 2. Los Angelos Almanac (https://www.laalmanac.com/weather/we133a.php)
 
+# Files
+
+1. Jupyter Notebooks - these are mostly what I used to explore initial data from SEDAC. I had the hopes of plotting temperatures of Avalon, CA but the data from SEDAC only listed information of areas that the humidity index combined with temperature exceeded safe values.
+2. Catalina.gqz - QGIS file that uses TIF files from JPL UAVSAR, as well as a rasterized log difference.
+3. CatalinaVegitationGrowth.png - The resulting rasterized log difference from QGIS
+4. CatalinaSAR.png - Plain ol' SAR image of Catalina Island :)
+5. rateOfDays.png - using data from SEDAC, world map showing the average amount of additional days per year an area had a humidity and heat index reach a combined hazardous level, calculating from 1983 to 2016.
+
