@@ -27,12 +27,12 @@ Tuholske, C., K. Caylor, C. Funk, A. Verdin, S. Sweeney, K. Grace, P. Peterson, 
 
 # Files
 
-1. Jupyter Notebooks - these are mostly what I used to explore initial data from SEDAC. I had the hopes of plotting temperatures of Avalon, CA but the data from SEDAC only listed information of areas that the humidity index combined with temperature exceeded safe values.
+1. Jupyter Notebooks - these are mostly what I used to explore initial data from SEDAC. I had the hopes of plotting temperatures of Avalon, CA but the data from SEDAC only listed information of areas that the humidity index combined with temperature exceeded safe values. For "...weatherData" notebook, the "explore new data" was not used, but can be found here (also on SEDAC): https://sedac.ciesin.columbia.edu/data/set/sdei-high-res-daily-uhe-1983-2016
 2. Catalina.gqz - QGIS file that uses TIF files from JPL UAVSAR, as well as a rasterized log difference.
-4. CatalinaSAR.png - Plain ol' SAR image of Catalina Island circa 2022 😊
-5. band1_22to09.png - logarithmic difference of 2022 / 2009 SAR data, band 1 (red band).
-6. SAR log2022:2009 Red Band.png - annotated version of "band1_22to09.png"
-7. rateOfDays.png - using data from SEDAC, world map showing the average amount of additional days per year an area had a humidity and heat index reach a combined hazardous level, calculating from 1983 to 2016.
-8. detailedDescription - detailed thought process behind the project and what happened at each step.
-9. Get SARtsy - Catalina Island.pdf - power point of entire project
+3. CatalinaSAR.png - Plain ol' SAR image of Catalina Island circa 2022 😊
+4. band1_22to09.png - logarithmic difference of 2022 / 2009 SAR data, band 1 (red band)
+5. SAR log2022:2009 Red Band.png - annotated version of "band1_22to09.png".
+6. detailedDescription - detailed thought process behind the project and what happened at each step.
+7. Get SARtsy - Catalina Island.pdf - power point of entire project.
+8. rateOfDays.png - using data from SEDAC, world map showing the average amount of additional days per year an area had a humidity and heat index reach a combined hazardous level, calculating from 1983 to 2016 (explained in "GetSARtsy_Catalina Island.pdf" as well as "detailedDescription.pdf").
 
